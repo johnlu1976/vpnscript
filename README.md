@@ -2,7 +2,7 @@
 
 ## Overview
 
-**v2rayWizard.sh** is a powerful and user-friendly bash script designed to simplify the installation, configuration, and management of V2Ray with WebSocket (ws) and TLS support. It provides a one-key solution for setting up V2Ray on Linux systems, making it ideal for both beginners and advanced users.
+**V2RayWizard.sh** is a powerful and user-friendly bash script designed to simplify the installation, configuration, and management of V2Ray with WebSocket (ws) and TLS support. It provides a one-key solution for setting up V2Ray on Linux systems, making it ideal for both beginners and advanced users.
 
 This script is part of the **vpnscript** repository hosted at [https://github.com/johnlu1976/vpnscript](https://github.com/johnlu1976/vpnscript).
 
@@ -40,12 +40,12 @@ Before running the script, ensure the following:
 
 2. Make the script executable:
     ```bash
-    chmod +x v2rayWizard.sh
+    chmod +x V2RayWizard.sh
     ```
 
 3. Run the script:
     ```bash
-    ./v2rayWizard.sh
+    ./V2RayWizard.sh
     ```
 
 ## Usage
